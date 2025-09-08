@@ -1,0 +1,5 @@
+python-telegram-bot==22.3
+moviepy==1.0.3
+requests
+# Note: ffmpeg must be installed on the system (not a Python package).
+# On Windows, add ffmpeg.exe to PATH or install via choco/scoop.
